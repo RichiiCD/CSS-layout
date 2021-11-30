@@ -50,4 +50,8 @@ body {
     .column-4 {
         width: 50%;
     }
+
+    #container-10 {
+        width: 100%;
+    }
 }
